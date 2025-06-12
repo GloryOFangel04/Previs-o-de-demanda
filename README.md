@@ -28,7 +28,7 @@ A equipe foi responsável pela **previsão de demanda** de produtos, utilizando 
 - Validação e interpretação dos resultados
 - Sugestão de estratégias para otimização logística com base na previsão
 
-📄 O relatório detalhado está disponível na pasta `/relatorio`.
+📄 O relatório detalhado está disponível na pasta `/Relatorio`.
 
 ---
 
