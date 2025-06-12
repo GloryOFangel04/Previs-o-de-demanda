@@ -74,5 +74,5 @@ A equipe foi responsável pela **previsão de demanda** de produtos, utilizando 
 
 ## 📬 Contato
 
-Para dúvidas ou sugestões, entre em contato via [GitHub Issues](https://github.com/seu-usuario/seu-repositorio/issues).
+Para dúvidas ou sugestões, entre em contato via [GitHub Issues](https://github.com/GloryOFangel04).
 
